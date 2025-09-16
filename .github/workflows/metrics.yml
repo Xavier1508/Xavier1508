@@ -1,13 +1,20 @@
 name: Full-year calendar
+
 on:
-  schedule: [{cron: "0 0 * * *"}]  # jalan tiap hari jam 00:00 UTC
-  workflow_dispatch:               # bisa lo trigger manual juga
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 0 1 1 *' # contoh, jalan setahun sekali
 
 jobs:
-  build:
+  generate-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Full-year Calendar Metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
