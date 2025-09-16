@@ -1,18 +1,16 @@
-name: Generate GitHub Metrics
+name: Full-year calendar
 on:
-  schedule:
-    - cron: "0 0 * * *"   # jalan tiap hari jam 00:00 UTC
-  workflow_dispatch:       # bisa dijalankan manual
+  schedule: [{cron: "0 0 * * *"}]  # jalan tiap hari jam 00:00 UTC
+  workflow_dispatch:               # bisa lo trigger manual juga
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
