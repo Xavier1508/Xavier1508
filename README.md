@@ -10,8 +10,11 @@
 </div>
 
 --- 
+<div align="center">
+  <img src="https://media1.tenor.com/m/eE2OLGiBR-QAAAAd/transitions-kinemaster.gif" width="100px">
+</div>
 
-### <img src="https://media1.tenor.com/m/eE2OLGiBR-QAAAAd/transitions-kinemaster.gif" width="50px"> A Little More About Me...
+### ✨ A Little More About Me...
 
 I’m a Computer Science student and Cyber Security enthusiast who enjoys turning big ideas into something real, whether it’s building an app, experimenting with AI, or breaking down security systems (the ethical way, of course 😎).
 For me, coding isn’t just about solving problems, it’s like a puzzle game that I never get tired of playing. I love the challenge of making things simple, useful, and maybe a little fun along the way.
