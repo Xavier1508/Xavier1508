@@ -5,15 +5,12 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  <p><strong>A [Your Role, e.g., Full-Stack Developer, Mobile Engineer, Data Scientist] from [Your City/Country] with a passion for building beautiful and functional things.</strong></p>
+  <p><strong>A Computer Science Student & Cyber Security Enthusiast from Indonesia with a passion for building secure and functional applications.</strong></p>
   
 </div>
 
----
-<div align="center">
-    <img src="https://media1.tenor.com/m/eE2OLGiBR-QAAAAd/transitions-kinemaster.gif" width="250px">
-</div>
-      
+--- 
+
 ### <img src="https://media1.tenor.com/m/eE2OLGiBR-QAAAAd/transitions-kinemaster.gif" width="50px"> A Little More About Me...
 
 I'm a coder who loves the challenge of turning a complex idea into a simple, elegant solution. My journey into tech started with [mention your origin story briefly, e.g., a simple "Hello World" in Python, customizing my first blog, etc.], and I've been hooked ever since! For me, coding is like solving a puzzle—it's a creative process that I deeply enjoy.
@@ -85,6 +82,8 @@ This is my little corner of the internet. Feel free to look around, and if you l
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier1508&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
   
 </div>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Xavier1508&theme=radical&hide_border=true)
 
 
 ![Isometric commit calendar](./metrics.plugin.isocalendar.fullyear.svg)
