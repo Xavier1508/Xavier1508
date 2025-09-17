@@ -80,13 +80,12 @@ This is my little corner of the internet. Feel free to look around, and if you l
   <br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier1508&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-  
-</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Xavier1508&theme=radical&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Xavier1508&theme=radical&hide_border=true)
 
+  ![Isometric commit calendar](./metrics.plugin.isocalendar.fullyear.svg)
+</div
 
-![Isometric commit calendar](./metrics.plugin.isocalendar.fullyear.svg)
 <!--
 **Xavier1508/Xavier1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
