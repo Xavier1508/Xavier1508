@@ -28,7 +28,17 @@ Here are some of the technologies I love to work with. I'm always eager to learn
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,postgres,mongodb,docker,git" />
+    <img src="https://skillicons.dev/icons?i=c,python,js,ts,react,nextjs,nodejs,express,py,django,fastapi,postgres,mongodb,docker,git" />
+    </a>
+</p>
+
+### 🧑‍🎨 My Design & Editing Tools
+
+And here are some of the technologies and tools I use to make my graphic design, photo or video editing, 3D visiolization, etc.
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps, pr, canva, figma, unity," />
     </a>
 </p>
 
@@ -48,16 +58,16 @@ Here are some of the technologies I love to work with. I'm always eager to learn
 This is my little corner of the internet. Feel free to look around, and if you like what you see, let's connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin-username]" target="_blank">
+  <a href="https://www.linkedin.com/in/xavierrenjiro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/[your-twitter-handle]" target="_blank">
+  <a href="https://twitter.com/-" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="[your-portfolio-website-url]" target="_blank">
+  <a href="-" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:[your-email-address]">
+  <a href="mailto:xaviertalie1508@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
@@ -68,11 +78,11 @@ This is my little corner of the internet. Feel free to look around, and if you l
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xavier1508&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier1508&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
   
 </div>
 
