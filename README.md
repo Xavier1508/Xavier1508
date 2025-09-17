@@ -16,7 +16,6 @@
 I’m a Computer Science student and Cyber Security enthusiast who enjoys turning big ideas into something real, whether it’s building an app, experimenting with AI, or breaking down security systems (the ethical way, of course 😎).
 For me, coding isn’t just about solving problems, it’s like a puzzle game that I never get tired of playing. I love the challenge of making things simple, useful, and maybe a little fun along the way.
 When I’m not behind the keyboard, you’ll probably find me exploring new ideas, designing something, or just running to clear my head (yes, literally running 🏃).
-When I'm not at my keyboard, you can probably find me [mention a hobby or two, e.g., exploring new coffee shops, hiking up a mountain, getting lost in a good book, or playing my guitar].
 
 ---
 
@@ -44,16 +43,16 @@ And here are some of the technologies and tools I use to make my graphic design,
 
 ### 🌱 What I'm Up To Right Now
 
-* 🚀 **Building:** Currently working on [Name of a project and a brief, exciting description], a project that aims to solve [the problem].
-* 🌱 **Learning:** Diving deeper into [A technology, framework, or concept, e.g., Go, WebAssembly, Machine Learning].
-* 🤝 **Collaborating:** I'm open to collaborating on interesting open-source projects, especially those related to [Your field of interest, e.g., developer tools, education, sustainability].
-* 💬 **Let's Talk:** Feel free to ask me about anything related to [Your areas of expertise, e.g., React, Python automation, UI/UX design].
+* 🔧 Building: A project that blends machine learning with real-world impact, predicting chronic kidney disease using AI models.
+* 📚 Learning: Diving deeper into cyber security, zero trust architecture, and advanced ML techniques.
+* 🤝 Collaborating: Open to working on AI/ML and security-related projects, especially those that involve creative problem-solving.
+* 🎨 Creating: Experimenting with UI/UX design and finding new ways to make tech not just functional, but also enjoyable to use.
 
 ---
 
 ### 📫 Let's Connect!
 
-This is my little corner of the internet. Feel free to look around, and if you like what you see, let's connect!
+I’m always up for a good chat about tech, design, or just life in general. If you’ve got a cool project, an idea, or just want to say hi, don’t hesitate to reach out!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/xavierrenjiro" target="_blank">
