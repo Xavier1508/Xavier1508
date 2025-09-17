@@ -11,7 +11,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/sp64_KdecdJgQ/giphy.gif" width="30px"> A Little More About Me...
+### <img src="https://media1.tenor.com/m/eE2OLGiBR-QAAAAd/transitions-kinemaster.gif" width="50px"> A Little More About Me...
 
 I'm a coder who loves the challenge of turning a complex idea into a simple, elegant solution. My journey into tech started with [mention your origin story briefly, e.g., a simple "Hello World" in Python, customizing my first blog, etc.], and I've been hooked ever since! For me, coding is like solving a puzzle—it's a creative process that I deeply enjoy.
 
