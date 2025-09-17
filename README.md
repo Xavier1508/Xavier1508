@@ -11,7 +11,7 @@
 
 ---
 <div align="center">
-    <img src="https://media1.tenor.com/m/eE2OLGiBR-QAAAAd/transitions-kinemaster.gif" width="100px">
+    <img src="https://media1.tenor.com/m/eE2OLGiBR-QAAAAd/transitions-kinemaster.gif" width="250px">
 </div>
       
 ### A Little More About Me...
