@@ -38,7 +38,7 @@ And here are some of the technologies and tools I use to make my graphic design,
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,canva,pr,figma,unity" />
+    <img src="https://skillicons.dev/icons?i=ps,pr,figma,unity" />
     </a>
 </p>
 
