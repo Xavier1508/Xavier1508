@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <div align="center">
   
   <h1>
     Hey there, I'm Xavier Renjiro! 
-    <img src="[[kj6o3pv6za1.gif?width=480&auto=webp&s=a7d9bef8d4ac65556e95ae25f09557e761102ba3)](https://tenor.com/view/transitions-kinemaster-black-guy-suit-tiktok-gif-25279479)](https://media1.tenor.com/m/eE2OLGiBR-QAAAAd/transitions-kinemaster.gif)" width="30px"/>
+    <img src="https://media1.tenor.com/m/eE2OLGiBR-QAAAAd/transitions-kinemaster.gif" width="30px"/>
   </h1>
   
   <p><strong>A [Your Role, e.g., Full-Stack Developer, Mobile Engineer, Data Scientist] from [Your City/Country] with a passion for building beautiful and functional things.</strong></p>
