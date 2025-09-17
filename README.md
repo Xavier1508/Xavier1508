@@ -28,7 +28,7 @@ Here are some of the technologies I love to work with. I'm always eager to learn
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js,ts,react,nextjs,nodejs,express,py,django,fastapi,postgres,mongodb,docker,git" />
+    <img src="https://skillicons.dev/icons?i=c,js,ts,react,nextjs,nodejs,express,py,css,html,laravel,mongodb,docker,git" />
     </a>
 </p>
 
@@ -38,7 +38,7 @@ And here are some of the technologies and tools I use to make my graphic design,
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,pr,figma,unity" />
+    <img src="https://skillicons.dev/icons?i=ps,canva,pr,figma,unity" />
     </a>
 </p>
 
