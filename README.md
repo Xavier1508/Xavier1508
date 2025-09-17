@@ -4,7 +4,7 @@
   
   <h1>
     Hey there, I'm Xavier Renjiro! 
-    <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://preview.redd.it/does-anyone-have-the-image-gif-of-limbo-drawn-over-the-v0-u0kj6o3pv6za1.gif?width=480&auto=webp&s=a7d9bef8d4ac65556e95ae25f09557e761102ba3)" width="30px"/>
+    <img src="[kj6o3pv6za1.gif?width=480&auto=webp&s=a7d9bef8d4ac65556e95ae25f09557e761102ba3)](https://tenor.com/view/transitions-kinemaster-black-guy-suit-tiktok-gif-25279479)" width="30px"/>
   </h1>
   
   <p><strong>A [Your Role, e.g., Full-Stack Developer, Mobile Engineer, Data Scientist] from [Your City/Country] with a passion for building beautiful and functional things.</strong></p>
