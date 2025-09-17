@@ -14,11 +14,8 @@
 ### <img src="https://media1.tenor.com/m/eE2OLGiBR-QAAAAd/transitions-kinemaster.gif" width="50px"> A Little More About Me...
 
 I’m a Computer Science student and Cyber Security enthusiast who enjoys turning big ideas into something real, whether it’s building an app, experimenting with AI, or breaking down security systems (the ethical way, of course 😎).
-
 For me, coding isn’t just about solving problems, it’s like a puzzle game that I never get tired of playing. I love the challenge of making things simple, useful, and maybe a little fun along the way.
-
 When I’m not behind the keyboard, you’ll probably find me exploring new ideas, designing something, or just running to clear my head (yes, literally running 🏃).
-
 When I'm not at my keyboard, you can probably find me [mention a hobby or two, e.g., exploring new coffee shops, hiking up a mountain, getting lost in a good book, or playing my guitar].
 
 ---
