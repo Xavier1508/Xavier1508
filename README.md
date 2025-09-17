@@ -2,7 +2,7 @@
   
   <h1>
     Hey there, I'm Xavier Renjiro! 
-    <img src="https://media1.tenor.com/m/eE2OLGiBR-QAAAAd/transitions-kinemaster.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
   <p><strong>A [Your Role, e.g., Full-Stack Developer, Mobile Engineer, Data Scientist] from [Your City/Country] with a passion for building beautiful and functional things.</strong></p>
