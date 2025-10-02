@@ -28,7 +28,7 @@ Here are some of the technologies I love to work with. I'm always eager to learn
 
 <p align="left">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=c,js,java,PHP,react,nextjs,nodejs,express,py,css,html,laravel,mongodb,docker,git" />
+    <img src="https://skillicons.dev/icons?i=c,js,java,php,react,nextjs,nodejs,express,py,css,html,laravel,mongodb,docker,git" />
     </a>
 </p>
 
