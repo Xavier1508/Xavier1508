@@ -27,8 +27,8 @@ When I’m not behind the keyboard, you’ll probably find me exploring new idea
 Here are some of the technologies I love to work with. I'm always eager to learn more!
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,ts,react,nextjs,nodejs,express,py,css,html,laravel,mongodb,docker,git" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=c,js,java,PHP,react,nextjs,nodejs,express,py,css,html,laravel,mongodb,docker,git" />
     </a>
 </p>
 
@@ -37,7 +37,7 @@ Here are some of the technologies I love to work with. I'm always eager to learn
 And here are some of the technologies and tools I use to make my graphic design, photo or video editing, 3D visiolization, etc.
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=ps,pr,figma,unity" />
     </a>
 </p>
