@@ -76,8 +76,6 @@ I’m always up for a good chat about tech, design, or just life in general. If 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier1508&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
   <br/>
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Xavier1508&theme=radical&hide_border=true)
-  <br/>
   ![Isometric commit calendar](./metrics.plugin.isocalendar.fullyear.svg)
 </div
 
