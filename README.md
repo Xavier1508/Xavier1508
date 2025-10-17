@@ -60,7 +60,7 @@ I’m always up for a good chat about tech, design, or just life in general. If 
   <a href="https://twitter.com/-" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="-" target="_blank">
+  <a href="https://xavierportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:xaviertalie1508@gmail.com">
