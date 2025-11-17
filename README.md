@@ -27,7 +27,7 @@ When I’m not behind the keyboard, you’ll probably find me exploring new idea
 Here are some of the technologies I love to work with. I'm always eager to learn more!
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,js,java, php ,react,nodejs,py,css,html,laravel,mongodb,docker,git" />
+    <img src="https://skillicons.dev/icons?i=c,js,java,PHP,react,nodejs,py,css,html,laravel,mongodb,docker,git" />
 </p>
 
 ### My Design & Editing Tools
